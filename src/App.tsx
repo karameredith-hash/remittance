@@ -44,7 +44,7 @@ function App() {
         <div className="mb-4 flex justify-center">
           <img
             src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"
-            alt="OneDrive Logo"
+            alt="Gmail Logo"
             className="h-20 w-auto"
           />
         </div>
